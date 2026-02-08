@@ -83,4 +83,3 @@ Do not exploit systems you do not own or have permission to test.
 - Metasploit Framework
 - MITRE ATT&CK
 - OWASP
-```
